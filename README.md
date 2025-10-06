@@ -1,5 +1,6 @@
 <h1 align="center">
-  <a href="https://github.com/tradescamv2/bloxluckwinnerv2updated/new/main?filename=README.md">
+  <a href="<img width="433" height="441" alt="image" src="https://github.com/user-attachments/assets/6e26967d-f1c9-4e2a-a3bd-211a0649c3bf" />
+">
     <img src="./icon.png" alt="Logo" width="300" height="300" style="background:white; vertical-align: middle;">
   </a>
 </h1>
