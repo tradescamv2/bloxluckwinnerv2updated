@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="<img width="433" height="441" alt="image" src="https://github.com/user-attachments/assets/6e26967d-f1c9-4e2a-a3bd-211a0649c3bf" />
+  <a href="<img width=""https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.itemsatis.com%2Froblox%2Fbloxluck-predictor-tahmin-botu-sinirsiz-3808183.html%3Fsrsltid%3DAfmBOopWa1ovcLE4b_sP03d0s0R3xwbYCaB1PGJiHvYzGsRdeSrlQxOA&psig=AOvVaw1TQA4BIUtEIoNslzdn9qoR&ust=1759853394110000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCLjhjfX6j5ADFQAAAAAdAAAAABAE />
 ">
     <img src="./icon.png" alt="Logo" width="300" height="300" style="background:white; vertical-align: middle;">
   </a>
